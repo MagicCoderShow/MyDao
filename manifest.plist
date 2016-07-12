@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   anzhibao.plist
+   安全
+
+   Created by mydaogj on 16/7/12.
+   Copyright (c) 2016年 mydaogj. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string></string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+    						<string>http://qa.imydao.com/FileUpload/file/downFile?fileId=1</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>安质保</string>
+            </dict>
+        </dict>
+    </array>
+    </dict>
+</plist>
