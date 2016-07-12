@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://qa.imydao.com/FileUpload/file/downFile?fileId=1</string>
+                    <string>https://raw.githubusercontent.com/MagicCoderShow/MyDao/gh-pages/V1.0.5.2.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>anzhibao.ipa</string>
+                <string>安质保</string>
             </dict>
         </dict>
     </array>
